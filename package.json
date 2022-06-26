@@ -1,0 +1,21 @@
+{
+  "name": "nuker",
+  "version": "2.0.0",
+  "description": "| DnS Panel |  | ------------- |  | ![Presser](https://images-ext-2.discordapp.net/external/4R6HCtOo1t8z4sZj1XzUE3n7ZIWiFXVVEMCDyzXLdAo/https/media.discordapp.net/attachments/825013748875132989/942912393862873169/unknown.png) |",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ExothDE, Na0",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord.js": "^13.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "ExothDE"
+  }
+}
